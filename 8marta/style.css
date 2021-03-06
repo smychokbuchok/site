@@ -1,0 +1,68 @@
+body{
+	background-color: #A349A4;
+}
+*{
+	margin: 0 ;
+	padding: 0;
+	box-sizing: border-box;
+}
+.top__image{
+	background: url(8mat.jpg) no-repeat center;
+	background-size: cover;
+	width: 100%;
+	min-height: 850px;
+}
+.slowa{
+	
+	font-family: Merriweather, sans-serif ;
+}
+.slowa__number1{
+	text-align: center;
+	font-size: 50px;
+}
+.slowa__number2{
+text-align: center;
+	font-size: 25px;
+}
+/*.photo__middle{
+
+}
+.middle__photo1{
+	background:url(anya1.jfif);
+	background-size: cover;
+	width: 100%;
+	height: 1250px;
+}*/
+.photo__middle{
+align-items: center;
+	justify-content: center;
+	display: flex;
+	margin-bottom: 100px;
+}
+img{мax-height:200px;
+ max-width:200px;
+ border:0px;
+	
+}
+.igra{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+input {
+			border: none;
+  border-radius: 8px;
+  background: #00BFFF;
+  color: #fff;
+  padding: 20px 35px;
+  font-size: 16px;
+  outline: none;
+  cursor: pointer;
+  transition: background .2s linear;
+  margin-bottom: 800px;
+		}
+.poebacki{
+	font-size: 10px;
+	margin-left: 1400px;
+	margin-bottom: 200px;
+}
